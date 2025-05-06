@@ -7,6 +7,7 @@
 #include "ulib/path2d.h"
 #include "ulib/image.h"
 #include "ulib/color.h"  // for Color and Gradient
+#include <cstint>
 
 #ifndef NDEBUG
 #define DEBUG_CACHED_BOUNDS 1
